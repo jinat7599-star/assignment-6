@@ -9,5 +9,4 @@ const viteConfiguration = defineConfig({
     react(),
   ],
 });
-
 export default viteConfiguration;
