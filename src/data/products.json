@@ -1,0 +1,98 @@
+[
+  {
+    "id": 1,
+    "name": "Resume Builder",
+    "description": "Create ATS-friendly resumes",
+    "price": 10,
+    "period": "monthly",
+    "tagType": "Popular",
+    "features": ["100+ templates", "PDF export", "AI suggestions"],
+    "icon": "📄"
+  },
+  {
+    "id": 2,
+    "name": "Portfolio Maker",
+    "description": "Build your developer portfolio",
+    "price": 15,
+    "period": "monthly",
+    "tagType": "New",
+    "features": ["Hosting", "Custom domain", "SEO tools"],
+    "icon": "🌐"
+  },
+  {
+    "id": 3,
+    "name": "Logo Generator",
+    "description": "Instant logo creation tool",
+    "price": 8,
+    "period": "one-time",
+    "tagType": "Best Seller",
+    "features": ["HD export", "Unlimited edits"],
+    "icon": "🎨"
+  },
+  {
+    "id": 4,
+    "name": "Invoice Generator",
+    "description": "Create professional invoices easily",
+    "price": 12,
+    "period": "monthly",
+    "tagType": "Popular",
+    "features": ["Auto calculations", "PDF download", "Client management"],
+    "icon": "🧾"
+  },
+  {
+    "id": 5,
+    "name": "Password Manager",
+    "description": "Securely store your passwords",
+    "price": 6,
+    "period": "monthly",
+    "tagType": "Best Seller",
+    "features": ["Encrypted vault", "Auto-fill", "Cross-device sync"],
+    "icon": "🔐"
+  },
+  {
+    "id": 6,
+    "name": "AI Content Writer",
+    "description": "Generate high-quality content instantly",
+    "price": 20,
+    "period": "monthly",
+    "tagType": "New",
+    "features": ["Blog writing", "SEO optimized", "Multiple tones"],
+    "icon": "✍️"
+  },
+
+  {
+    "id": 7,
+    "name": "Task Manager",
+    "description": "Organize and track your daily tasks",
+    "price": 9,
+    "period": "monthly",
+    "tagType": "Popular",
+    "features": ["To-do lists", "Reminders", "Progress tracking"],
+    "icon": "📋"
+  },
+  {
+    "id": 8,
+    "name": "Social Media Scheduler",
+    "description": "Plan and automate your posts",
+    "price": 18,
+    "period": "monthly",
+    "tagType": "New",
+    "features": ["Post scheduling", "Multi-platform support", "Analytics"],
+    "icon": "📅"
+  },
+  {
+  "id": 9,
+  "name": "Video Editor Pro",
+  "description": "Edit and export high-quality videos بسهولة",
+  "price": 25,
+  "period": "monthly",
+  "tagType": "Popular",
+  "features": [
+    "4K video editing",
+    "Drag & drop timeline",
+    "Built-in effects & transitions"
+  ],
+  "icon": "🎬"
+}
+
+]
